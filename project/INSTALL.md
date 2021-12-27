@@ -1,0 +1,1 @@
+"INSTALL.md wird erstellt"
